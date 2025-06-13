@@ -1,0 +1,15 @@
+title: Microplate Reader Comparisons
+description: Side-by-side notes on fluorescence, luminescence, absorbance, AlphaScreen, and more.
+theme: minima          # built-in, mobile-friendly
+
+plugins:
+  - jekyll-sitemap     # auto-makes /sitemap.xml
+  - jekyll-seo-tag     # adds SEO meta tags
+
+# Optional but nice:
+markdown: kramdown     # default; here for clarity
+permalink: pretty      # cleans URLs (no .html)
+
+# Make sure special files like robots.txt are copied
+include:
+  - robots.txt
