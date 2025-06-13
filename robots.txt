@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TheNumberOne2.github.io/Microplate-Reader-Comparisons/sitemap.xml
